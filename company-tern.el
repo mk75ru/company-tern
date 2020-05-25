@@ -152,7 +152,7 @@ Use CALLBACK function to display candidates."
 
 ;;;###autoload
 (defun company-tern (command &optional arg &rest _args)
-  "Tern backend for company-mode.
+  "Tern backend for `company-mode'.
 See `company-backends' for more info about COMMAND and ARG."
   (interactive (list 'interactive))
   (cl-case command
