@@ -1,5 +1,5 @@
-.. |travis| image:: https://travis-ci.org/proofit404/company-tern.png
-    :target: https://travis-ci.org/proofit404/company-tern
+.. |travis| image:: https://travis-ci.org/kocubinski/company-tern.png
+    :target: https://travis-ci.org/kocubinski/company-tern
     :alt: Build Status
 
 .. |coveralls| image:: https://coveralls.io/repos/proofit404/company-tern/badge.png

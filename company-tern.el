@@ -3,7 +3,8 @@
 ;; Copyright (C) 2013-2016 by Artem Malyshev
 
 ;; Author: Artem Malyshev <proofit404@gmail.com>
-;; URL: https://github.com/proofit404/company-tern
+;; Maintainer: Matthew Kocubinski <mkocubinski@gmail.com>
+;; URL: https://github.com/kocubinski/company-tern
 ;; Version: 0.3.0
 ;; Package-Requires: ((company "0.8.0") (tern "0.0.1") (dash "2.8.0") (dash-functional "2.8.0") (s "1.9.0") (cl-lib "0.5.0"))
 
